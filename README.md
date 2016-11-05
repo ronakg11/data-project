@@ -1,7 +1,6 @@
-#Java Automation Project
-> ##Base Point for Java Automation Projects
+.//*[@id='hlb-ptc-btn-native']#Java Automation Data Project
 
-> *Project for creating automation tests using Selenium Webdriver and TestNG.*
+> *Project for creating automation tests using Selenium Webdriver, TestNG and MAMP.*
 
 > **Java 7**
 
@@ -13,6 +12,6 @@
 >> * JDBC
 >> * MySQL
 
-> Java Project for SQA Boot Camp October 3.
+> Java Project for SQA Boot Camp October 3. Created on November 5, 2016.
 
 [Ronak Gavandi](https://github.com/ronakg11/)
