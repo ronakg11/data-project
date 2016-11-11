@@ -1,0 +1,37 @@
+2016-11-05 17:40:19 INFO  BasicAutoTest:70 - Setting up driver.
+2016-11-05 17:40:26 INFO  BasicAutoTest:76 - Going to baseURL
+2016-11-05 17:40:27 INFO  BasicAutoTest:39 - Address is: 211 Oracle Arena, Age is: 28
+2016-11-05 17:40:27 INFO  BasicAutoTest:88 - Closing all driver windows.
+2016-11-05 17:53:27 INFO  BasicAutoTest:70 - Setting up driver.
+2016-11-05 17:53:32 INFO  BasicAutoTest:76 - Going to baseURL
+2016-11-05 17:59:32 INFO  BasicAutoTest:88 - Closing all driver windows.
+2016-11-05 18:05:01 INFO  BasicAutoTest:70 - Setting up driver.
+2016-11-05 18:05:07 INFO  BasicAutoTest:76 - Going to baseURL
+2016-11-05 18:05:08 INFO  BasicAutoTest:39 - Adam Gilchristis a sportsman who is 41and lives at 34 Perth Dr
+2016-11-05 18:05:08 INFO  BasicAutoTest:88 - Closing all driver windows.
+2016-11-05 19:40:00 INFO  DataHelper:48 - 1  	Lorne G  	3630 William Avenue, Miami, FL 33133  	41  	QA Engineer
+2016-11-05 19:40:00 INFO  DataHelper:48 - 2  	Janet Hill  	465 NE 26th Street Miami, FL 33136  	23  	Lawyer
+2016-11-05 19:40:00 INFO  DataHelper:48 - 3  	Sam Privit  	2215 E 38th Ave, Denver, CO 80205   	40  	Farmer
+2016-11-05 19:40:00 INFO  DataHelper:48 - 4  	Lottie Downey  	3401 NE 38th Ave, Aventura, FL 33180  	71  	Principal
+2016-11-05 19:40:00 INFO  DataHelper:48 - 5  	Roy Allen  	4555 Las Vegas Blvd N, Las Vegas | NV 89115-0558  	10  	Musician
+2016-11-05 19:54:22 INFO  DataHelper:48 - 1  	Lorne G  	3630 William Avenue, Miami, FL 33133  	41  	QA Engineer
+2016-11-05 19:54:22 INFO  DataHelper:48 - 2  	Janet Hill  	465 NE 26th Street Miami, FL 33136  	23  	Lawyer
+2016-11-05 19:54:22 INFO  DataHelper:48 - 3  	Sam Privit  	2215 E 38th Ave, Denver, CO 80205   	40  	Farmer
+2016-11-05 19:54:22 INFO  DataHelper:48 - 4  	Lottie Downey  	3401 NE 38th Ave, Aventura, FL 33180  	71  	Principal
+2016-11-05 19:54:22 INFO  DataHelper:48 - 5  	Roy Allen  	4555 Las Vegas Blvd N
+Las Vegas | NV 89115-0558  	10  	Musician
+2016-11-05 19:54:22 INFO  DataHelper:48 - 6  	Tom Brady  	123 Gillette stadium  	40  	Quarter Back
+2016-11-05 19:54:22 INFO  DataHelper:48 - 7  	Sri Chill  	2011 AMARYLLIS CIR  	41  	qa
+2016-11-05 19:54:22 INFO  DataHelper:48 - 8  	Stephen Curry  	211 Oracle Arena  	28  	Point Guard
+2016-11-05 19:54:22 INFO  DataHelper:48 - 9  	Julio Jones  	2012 New Orleans  	34  	Wide Receiver
+2016-11-05 19:54:22 INFO  DataHelper:48 - 10  	Rob Gronk  	123 Patriots  	24  	Tight End
+2016-11-05 19:54:22 INFO  DataHelper:48 - 11  	Ronak Gavandi  	64 Woodbridge Terrace  	31  	SQA Engineer
+2016-11-05 19:54:22 INFO  DataHelper:48 - 12  	Gary Kirsten  	101 Wood Ave South  	44  	Coach
+2016-11-05 19:54:22 INFO  DataHelper:48 - 13  	Adam Gilchrist  	34 Perth Dr  	41  	Sportsman
+2016-11-05 19:54:22 INFO  DataHelper:48 - 14  	Jimmy Anderson  	90A Oval Blvd  	34  	Manager
+2016-11-05 19:54:22 INFO  DataHelper:48 - 15  	Stephen Fleming  	11 New Ln  	39  	Web Designer
+2016-11-05 19:54:22 INFO  DataHelper:48 - 16  	JF Nepton  	198 Junipero Serra Blvd, Stanford, CA 94305  	34  	Sales Clerk
+2016-11-05 19:54:22 INFO  DataHelper:48 - 17  	Emily Rose  	3111 Mission College Blvd, Santa Clara, CA 95054  	34  	Janitor
+2016-11-05 19:54:22 INFO  DataHelper:48 - 18  	Jennifer Brown  	2700 Alexandra Dr, El Dorado Hills, CA 95762  	34  	Councilor
+2016-11-05 19:54:22 INFO  DataHelper:48 - 19  	Curtis Ruffles  	150 W San Carlos St, San Jose, CA 95113  	34  	Instructor
+2016-11-05 19:54:22 INFO  DataHelper:48 - 20  	Buddy Anderson  	2222 Francisco Dr #510, El Dorado Hills, CA 95762  	34  	Coach
